@@ -9,6 +9,7 @@ hayato@google.com
 - [1](https://github.com/akariiijima/google-step-tsp/commit/dbef1dacce8f1b31f29d389335523fa217275fe0#diff-0eb072bd8eb1ec6c23e52b4d31f7003aR52)
 - [2](https://github.com/Yukiha-A/google-step-tsp/commit/1c6b6fe17a84e71032c0bda7b3ba33dd7187cd8a#diff-b31f6708cd9e6a900dd6e18fad189605R9)
 - [3](https://github.com/p623/google-step-tsp/commit/7f39fac12a70e9e6a28cfb85119654dd4c098d3a#diff-d438ce540089ff28b507491ad8b56359R76)
+- [4](https://github.com/mizuki1029/google-step-tsp/commit/4787ea62f32648260885e86bbb62913fffa79bd1#commitcomment-29679537)
 - ...後日、追加予定 (お待ちください... ）
 
 ---
